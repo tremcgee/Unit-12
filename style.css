@@ -1,3 +1,26 @@
-h1{
-    color: black
+#getNumber {
+    font-size: 22px;
+    text-align: center;
+}
+.inputNumberBox{
+    display: flex;
+    justify-content:center
+}
+#paragraph{
+    margin-right: 20px;
+    color: white;
+    background-color: darkblue;
+    padding: 30px;
+}
+.header{
+    background-color: darkcyan;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.instructions{
+    background-color: rgb(5, 148, 36);
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
